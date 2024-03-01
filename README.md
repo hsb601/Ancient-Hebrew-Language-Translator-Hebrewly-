@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+#App Demonstration
+https://github.com/hsb601/Ancient-Hebrew-Language-Translator-Hebrewly-/assets/65144195/ac05cc85-2d5c-419d-9f66-59cb540f6bab
+
+# Scan Download & Use the App
+![WhatsApp Image 2024-02-29 at 11 36 45 PM](https://github.com/hsb601/Ancient-Hebrew-Language-Translator-Hebrewly-/assets/65144195/3f69bfc6-2cad-40ec-8a2a-1889198cd597)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

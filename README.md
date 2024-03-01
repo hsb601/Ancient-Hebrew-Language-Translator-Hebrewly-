@@ -4,8 +4,12 @@ A new Flutter project.
 
 #App Demonstration
 
+
+https://github.com/hsb601/Ancient-Hebrew-Language-Translator-Hebrewly-/assets/65144195/0f10b76e-bd2f-4b92-b9af-1d474fabe4a8
+
+
 # Scan Download & Use the App
-![Untitled design (1)](https://github.com/hsb601/Ancient-Hebrew-Language-Translator-Hebrewly-/assets/65144195/09d3a708-0181-4126-9615-f186515cc5a2)
+![Untitled design (1)](https://github.com/hsb601/Ancient-Hebrew-Language-Translator-Hebrewly-/assets/65144195/02145a96-ec35-4e35-9134-a02c88547130)
 
 ## Getting Started
 

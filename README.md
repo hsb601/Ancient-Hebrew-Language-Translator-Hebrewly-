@@ -1,4 +1,4 @@
-# ancient_language_translator
+# Ancient_Language_Translator
 
 A new Flutter project.
 

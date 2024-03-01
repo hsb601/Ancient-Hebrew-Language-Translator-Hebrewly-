@@ -9,7 +9,7 @@ https://github.com/hsb601/Ancient-Hebrew-Language-Translator-Hebrewly-/assets/65
 
 
 # Scan Download & Use the App
-![Demo Video](https://github.com/hsb601/Ancient-Hebrew-Language-Translator-Hebrewly-/assets/65144195/02145a96-ec35-4e35-9134-a02c88547130)
+![QR Code](https://github.com/hsb601/Ancient-Hebrew-Language-Translator-Hebrewly-/assets/65144195/02145a96-ec35-4e35-9134-a02c88547130)
 
 ## Getting Started
 
